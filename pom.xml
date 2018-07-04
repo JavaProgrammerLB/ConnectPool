@@ -10,6 +10,7 @@
   <version>0.0.1</version>
   <modules>
     <module>pool-example</module>
+    <module>jedis-pool-example</module>
   </modules>
 
   <properties>
