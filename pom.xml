@@ -11,6 +11,8 @@
   <modules>
     <module>pool-example</module>
     <module>jedis-pool-example</module>
+    <module>jedis-pool-usage</module>
+    <module>jedis-usage</module>
   </modules>
 
   <properties>
