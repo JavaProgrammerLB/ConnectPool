@@ -13,6 +13,7 @@
     <module>jedis-pool-example</module>
     <module>jedis-pool-usage</module>
     <module>jedis-usage</module>
+    <module>my-mqtt-pool</module>
   </modules>
 
   <properties>

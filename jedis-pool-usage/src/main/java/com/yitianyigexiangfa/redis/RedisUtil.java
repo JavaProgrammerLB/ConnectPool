@@ -23,8 +23,6 @@ public class RedisUtil {
 
     private static Logger LOGGER = LoggerFactory.getLogger(RedisUtil.class);
 
-    private static RedisUtil instance;
-
     private static ReentrantLock lock = new ReentrantLock();
 
     private static JedisPool jedisPool;
